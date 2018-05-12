@@ -1,0 +1,44 @@
+_repo: The-Joyous-Story-of-Toto_35281
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Garrett, Edmund H. (Edmund Henry)
+    aliases:
+    - Garrett, Edmund Henry
+    - Garrett, E. H. (Edmund Henry)
+    birthdate: 1853
+    deathdate: 1929
+    gutenberg_agent_id: '32199'
+    url: http://www.gutenberg.org/2009/agents/32199
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_H._Garrett
+covers:
+- cover_type: archival
+  image_path: 35281-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Richards, Laura Elizabeth Howe
+    alias: Richards, Laura E.
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '1753'
+    url: http://www.gutenberg.org/2009/agents/1753
+    wikipedia: http://en.wikipedia.org/wiki/Laura_E._Richards
+description: ''
+gutenberg_issued: '2011-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35281'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Blindness -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Grandmothers -- Juvenile fiction'
+title: The Joyous Story of Toto
+url: http://www.gutenberg.org/ebooks/35281
